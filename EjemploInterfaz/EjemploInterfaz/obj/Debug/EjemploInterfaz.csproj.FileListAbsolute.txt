@@ -1,0 +1,7 @@
+T:\lenguajeC#\EjemploInterfaz\EjemploInterfaz\bin\Debug\EjemploInterfaz.exe.config
+T:\lenguajeC#\EjemploInterfaz\EjemploInterfaz\bin\Debug\EjemploInterfaz.exe
+T:\lenguajeC#\EjemploInterfaz\EjemploInterfaz\bin\Debug\EjemploInterfaz.pdb
+T:\lenguajeC#\EjemploInterfaz\EjemploInterfaz\obj\Debug\EjemploInterfaz.csproj.AssemblyReference.cache
+T:\lenguajeC#\EjemploInterfaz\EjemploInterfaz\obj\Debug\EjemploInterfaz.csproj.CoreCompileInputs.cache
+T:\lenguajeC#\EjemploInterfaz\EjemploInterfaz\obj\Debug\EjemploInterfaz.exe
+T:\lenguajeC#\EjemploInterfaz\EjemploInterfaz\obj\Debug\EjemploInterfaz.pdb
